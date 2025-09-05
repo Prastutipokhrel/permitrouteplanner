@@ -1,9 +1,5 @@
 # permitrouteplanner
 Blazor Server app to create/manage OS/OW permit requests with route mapping and PDF export.
-# Create a README file for the user's Blazor/.NET demo project
-readme_path = "/mnt/data/README_PermitRoutePlanner.md"
-
-readme_content = """# Permit Route Planner (Blazor Server, .NET 6, MSSQL)
 
 A small demo app that mirrors an **Oversize/Overweight (OS/OW) permit** workflow: create a permit request, capture vehicle specs, draw/display a route on a map, store records in **MSSQL**, and export a simple PDF summary. Built to showcase fit for roles working on DOT routing & permitting portals with a focus on **UI/UX**, **accessibility**, and **SQL**.
 
@@ -28,4 +24,3 @@ A small demo app that mirrors an **Oversize/Overweight (OS/OW) permit** workflow
 
 ---
 
-## 📁 Project Structure (proposed)
